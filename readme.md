@@ -5,7 +5,7 @@
 
 需要配置eros.native.json为
 
-```json
+```
 {
     ...
     'bundleUpdate': 'http://xxx.com:3001/app/check'
